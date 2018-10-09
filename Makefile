@@ -24,5 +24,5 @@ release: build tag login push
 	# pass
 
 .PHONY: run
-run: build
+run:
 	docker run -p 8000:8000 ${image_name}

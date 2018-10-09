@@ -13,3 +13,6 @@ login:
 .PHONY: push
 push:
 	docker push howlanderson/weather_ui
+
+.PHONY: release
+release: build tag login push

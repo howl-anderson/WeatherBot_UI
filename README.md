@@ -25,6 +25,9 @@ http://weather_bot.xiaoquankong.ai/
 
 Xiaoquan Kong @ https://github.com/howl-anderson
 
+## Credits
+所用的 `webchat.js` 来自于 [rasa-webchat](https://github.com/mrbot-ai/rasa-webchat) 项目
+
 ## Copyrights
 
 <div>Robot icon in web-chat interface made by <a href="https://www.flaticon.com/authors/good-ware" title="Robotic">Robotic</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
